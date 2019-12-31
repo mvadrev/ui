@@ -1,0 +1,63 @@
+.inputscont {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  margin-top: 1rem;
+}
+
+.inp1label {
+  padding-left: 2rem;
+  font-size: 1.2rem;
+}
+
+.inp1 {
+  border-radius: 8px;
+  margin-right: 5rem;
+  width: 10rem;
+  height: 1.8rem;
+}
+
+.login-root {
+  height: 100%;
+}
+
+.loginbtndiv {
+  padding: 2rem;
+  justify-content: end;
+  padding-left: 8rem;
+}
+
+.loginbtn {
+  background-color: goldenrod;
+  color: white;
+  border-radius: 8px;
+  width: 10rem;
+  height: 2rem;
+  outline: none;
+  font-size: 1rem;
+}
+
+.logodivimg {
+  display: grid;
+  margin: auto;
+}
+
+.logodiv {
+  padding-top: 5rem;
+}
+
+.fpassp {
+  text-align: right;
+  color: blue;
+}
+
+.fpasspreg {
+  color: blue;
+  padding-left: 0.5rem;
+}
+
+.forgotpass {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 7rem;
+}
